@@ -1,6 +1,7 @@
 package hello;
 
-import java.util.Array;
+import java.util.Arrays;
+foo bar
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
